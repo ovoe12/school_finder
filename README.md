@@ -1,5 +1,3 @@
-# school_finder
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
